@@ -39,4 +39,4 @@ git branch *name of new branch*.
 ## Слияние веток и разрешение конфликтов
 
 ## Удаление веток
-Для удаления ветки исползуем команду: git branch -d *name of branch*/
+Для удаления ветки исползуем команду: git branch -d *name of branch*.
